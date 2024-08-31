@@ -14,8 +14,7 @@
 
 <br><br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lari2806&theme=transparent&bg_color=000&border_color=742977&show_icons=true&icon_color=742977&title_color=b059b1&text_color=FFF)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lari2806&layout=compact&bg_color=000&border_color=742977&title_color=b059b1&text_color=FFF)
-
+![Estatísticas do GitHub de Lari2806](https://github-readme-stats.vercel.app/api?username=lari2806&show_icons=true&theme=radical) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lari2806&layout=compact&theme=radical) |
 ## Meu contato
 [![Meu Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:larissa.rfs28@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lari2806)
