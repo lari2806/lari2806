@@ -3,9 +3,18 @@
 
 <h3>Atualmente focada em aprender mais sobre Java, Python e SQL ☕ </h3>
 
+<H2> 🚀 Projetos</H2>
+
+<h3>🧜🏾‍♀️ Sistema Iara</h3>
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<H2> 📚 Principais repositórios</H2>
+
+- **[back-end-IARA](https://github.com/lari2806/back-end-IARA)**: Repositório criado para dar continuidade no sistema iara construindo o back-end.
+
+- **[Java-Projects](https://github.com/lari2806/Java-Projects)**: Repositório feito para concluir desafios da linguagem java.
 
 <h2>🖥 Linguagens que estou aprendendo::</h2>
 
