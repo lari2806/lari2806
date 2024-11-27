@@ -5,8 +5,10 @@
 
 <H2> 🚀 Projetos</H2>
 
+
 <h3>🧜🏾‍♀️ Sistema Iara</h3>
 
+- **[IARA-2.0](https://github.com/lari2806/IARA-2.0)**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -16,7 +18,7 @@
 
 - **[Java-Projects](https://github.com/lari2806/Java-Projects)**: Repositório feito para concluir desafios da linguagem java.
 
-<h2>🖥 Linguagens que estou aprendendo::</h2>
+<h2>🖥 Linguagens que estou aprendendo:</h2>
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
