@@ -10,7 +10,7 @@
 
 - **[IARA-2.0](https://github.com/lari2806/IARA-2.0)**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right"><br><br><br><br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right"><br><br><br><br><br><br>
 
 <H2> 📚 Principais repositórios</H2>
 
