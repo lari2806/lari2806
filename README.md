@@ -15,6 +15,8 @@
 
 <H2> 📚 Principais repositórios</H2>
 
+- **[bot-IARA](https://github.com/lari2806/bot-IARA)**: Repositório especifico para o bot do sistema iara
+
 - **[back-end-IARA](https://github.com/lari2806/back-end-IARA)**: Repositório criado para dar continuidade no sistema iara construindo o back-end.
 
 - **[Java-Projects](https://github.com/lari2806/Java-Projects)**: Repositório feito para concluir desafios da linguagem java.
