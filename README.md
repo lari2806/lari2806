@@ -21,7 +21,7 @@
 
 - **[Java-Projects](https://github.com/lari2806/Java-Projects)**: Repositório feito para concluir desafios da linguagem java.
 
-<h2>🖥 Linguagens que estou aprendendo:</h2>
+<h2>🖥 Meus conhecimentos</h2>
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
