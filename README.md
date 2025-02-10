@@ -1,4 +1,4 @@
-<h1>Olá, sou a Larissa! 👩‍💻</h1> 
+<h1>Olá, sou a Larissa! ☕</h1> 
 <h3>Uma jovem estudante interessada em aprender sobre programação.</h3>
 
 <h3>Atualmente focada em aprender mais sobre Java, Python e SQL ☕ </h3>
