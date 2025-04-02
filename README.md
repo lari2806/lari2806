@@ -14,7 +14,7 @@ Projeto em desenvolvimento para automatizar processos e auxiliar usuários com u
 
 ## 📚 Principais Repositórios  
 
-📌 **[bot-IARA](https://github.com/lari2806/dio-trilha-java-basico)** – Repositório criado para fazer desafios de java básico dados pelo curso da dio.  
+📌 **[dio-trilha-java-basico](https://github.com/lari2806/dio-trilha-java-basico)** – Repositório criado para fazer desafios de java básico dados pelo curso da dio.  
 
 📌 **[bot-IARA](https://github.com/lari2806/bot-IARA)** – Repositório dedicado ao bot do Sistema Iara.  
 
