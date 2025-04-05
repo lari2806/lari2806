@@ -3,15 +3,6 @@ Uma jovem estudante apaixonada por tecnologia e programação. Atualmente, estou
 
 ---
 
-## 🚀 Projetos em Destaque  
-
-### 🧜🏾‍♀️ Sistema Iara  
-Projeto em desenvolvimento para automatizar processos e auxiliar usuários com um bot inteligente.  
-
-🔗 **[IARA-2.0](https://github.com/lari2806/IARA-2.0)**  
-
----
-
 ## 📚 Principais Repositórios  
 
 📌 **[dio-trilha-java-basico](https://github.com/lari2806/dio-trilha-java-basico)** – Repositório criado para fazer desafios de java básico dados pelo curso da dio.  
