@@ -17,10 +17,7 @@ Uma jovem estudante apaixonada por tecnologia e programação. Atualmente, estou
 
 ## 🖥 Tecnologias & Ferramentas  
 
-![MariaDB](https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white) 
 
 ---
 
@@ -29,12 +26,13 @@ Uma jovem estudante apaixonada por tecnologia e programação. Atualmente, estou
 <div align="center"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lari2806&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lari2806&layout=compact)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lari2806&layout=compact&theme=transparent)
 </div>  
 
 ---
 
 ## 📬 Onde me encontrar  
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:larissa.rfs28@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lari2806)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:larissa.rfs28@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lari2806) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-rego-freitas-de-sousa-5a8314324/)
+
+
