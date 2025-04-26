@@ -11,8 +11,6 @@ Uma jovem estudante apaixonada por tecnologia e programação. Atualmente, estou
 
 📌 **[back-end-IARA](https://github.com/lari2806/back-end-IARA)** – Implementação do back-end do Sistema Iara.  
 
-📌 **[Java-Projects](https://github.com/lari2806/Java-Projects)** – Repositório com desafios e projetos na linguagem Java.  
-
 ---
 
 ## 🖥 Tecnologias & Ferramentas  
