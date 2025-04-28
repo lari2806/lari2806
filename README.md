@@ -23,6 +23,9 @@ Uma jovem estudante apaixonada por tecnologia e programação. Atualmente, estou
 ![mySQL](https://skillicons.dev/icons?i=mysql)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Git](https://skillicons.dev/icons?i=git)
+![vscode](https://skillicons.dev/icons?i=vscode)
+![windows](https://skillicons.dev/icons?i=windows)
+![linux](https://skillicons.dev/icons?i=linux)
 
 
 
