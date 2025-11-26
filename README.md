@@ -36,7 +36,7 @@ Uma jovem estudante apaixonada por tecnologia e programação. Atualmente, estou
 
 <div align="center"> 
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lari2806&show_icons=true&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lari2806&theme=transparent&bg_color=000&border_color=742977&show_icons=true&icon_color=742977&title_color=b059b1&text_color=FFF)
 
 ![Top Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lari2806&layout=compact&theme=midnight-purple)
 
